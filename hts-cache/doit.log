@@ -1,0 +1,8 @@
+-qwr3%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://sites.google.com/view/inkinkmath/page_1 -O1 "C:\\Users\\apoll\\Downloads\\httrack_x64-noinst-3.51.0\\httrack\\Websites\\Ink" +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm +*bzzhr* +*megadb* +*fileditch* -*.zip -*.rar -*.exe -*.7z -*.iso -*.bin -*.tar -*.gz -*.png -*.jpg -*.jpeg -*.webp
+File generated automatically on Sat, 31 Oct 2026 13:22:37, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
